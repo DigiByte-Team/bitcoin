@@ -1,3 +1,7 @@
+DO NOT USE THIS VERSION YET - TEST BUILD
+------------------------------------------------
+Use this v4.0.3 repo until 6.13 is officialy launched - https://github.com/digibyte/digibyte-old
+
 
 What is DigiByte?
 ----------------
